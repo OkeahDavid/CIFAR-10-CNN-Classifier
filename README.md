@@ -25,7 +25,12 @@ pip install -r requirements.txt
 ## Result of the Training and Evaluation of the Model
 ![Figure_2](https://github.com/OkeahDavid/CIFAR-10-CNN-Classifier/assets/82973470/655f1379-496c-457e-b550-1ecbc3dc1626)
 
+## Acknowledgments
+
+- Thanks to the creators of the CIFAR-10 dataset for providing a standard benchmark for image classification.
+- Thanks to TensorFlow and the Keras team for their fantastic deep learning library.
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
