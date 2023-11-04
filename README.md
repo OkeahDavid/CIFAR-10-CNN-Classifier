@@ -48,6 +48,9 @@ When evaluating the Model I obtained these results from the training
 
 Test accuracy: 0.6898000240325928
 
+## Conclusion
+The accuracy of the classifcation of the images is about 68%
+
 ## Acknowledgments
 
 - Thanks to the creators of the CIFAR-10 dataset for providing a standard benchmark for image classification.
