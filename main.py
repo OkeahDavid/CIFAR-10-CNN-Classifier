@@ -11,8 +11,7 @@ def predict_new_images(model, new_images):
     return predicted_classes
 
 # Load the trained model
-# Ensure the path to the model is relative or passed as an argument for better portability
-model_path = "cnn_model.h5"  # Change this to the correct path where your model is saved
+model_path = "cnn_model.h5"
 model = tf.keras.models.load_model(model_path)
 
 # Load the CIFAR-10 dataset
